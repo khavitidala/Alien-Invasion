@@ -10,3 +10,6 @@ python3 -m pip install -U pygame --user
 ```
 python3 alien_invasion.py
 ```
+
+## Source
+Python crash course : a hands-on, project-based introduction to programming 2nd Edition by Eric Matthes.
