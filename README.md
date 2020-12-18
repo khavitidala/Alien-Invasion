@@ -11,8 +11,8 @@ python3 -m pip install -U pygame --user
 python3 alien_invasion.py
 ```
 
-## FAQ
-For Frequently Asked Question, check: https://bit.ly/FAQTubes3
+## Frequently Asked Question
+https://bit.ly/FAQTubes3
 
 ## Any Question?
 Feel free to ask Teaching Assistant at channel #tubes3-game (Slack)
