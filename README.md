@@ -15,7 +15,7 @@ python3 alien_invasion.py
 For Frequently Asked Question, check: https://bit.ly/FAQTubes3
 
 ## Any Question?
-Feel free to ask Teaching Asistant at channel #tubes3-game (Slack)
+Feel free to ask Teaching Assistant at channel #tubes3-game (Slack)
 
 ## Source
 Python crash course : a hands-on, project-based introduction to programming 2nd Edition by Eric Matthes.
